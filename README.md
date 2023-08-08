@@ -66,3 +66,12 @@ print(tunnel_url)
 %cd /home/jovyan/workspace/ui
 !python launch.py --listen --xformers --enable-insecure-extension-access --theme dark --gradio-queue --disable-safe-unpickle
 ```
+
+## Stable Diffusion Web UI
+https://github.com/AUTOMATIC1111/stable-diffusion-webui (Thanks to @AUTOMATIC1111 ❤)
+
+## Documentation
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
+
+## Special Thanks
+Thanks to @nagikoru for the suggestion ❤
