@@ -1,5 +1,8 @@
 https://saturncloud.io/
 
+## Tutorial
+https://www.youtube.com/watch?v=6zixxc-4_bA
+
 ## Pip requirements:
 ```py
 --extra-index-url https://download.pytorch.org/whl/cu118
