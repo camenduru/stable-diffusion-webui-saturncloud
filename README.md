@@ -8,7 +8,6 @@ torchtext==0.15.2
 torchdata==0.6.1
 xformers==0.0.20
 triton==2.0.0
-gradio_client==0.2.7
 ```
 
 ## Apt Packages:
