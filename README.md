@@ -25,7 +25,6 @@ git-lfs
 
 !git clone -b v2.5 https://dagshub.com/camenduru/ui
 !aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/embed/upscale/resolve/main/4x-UltraSharp.pth -d /home/jovyan/workspace/ui/models/ESRGAN -o 4x-UltraSharp.pth
-!git clone https://github.com/camenduru/tunnels /home/jovyan/workspace/ui/extensions/tunnels
 !git clone https://github.com/etherealxx/batchlinks-webui /home/jovyan/workspace/ui/extensions/batchlinks-webui
 %cd /home/jovyan/workspace/ui
 !git reset --hard
