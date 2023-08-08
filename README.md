@@ -13,6 +13,7 @@ triton==2.0.0
 ## Apt Packages:
 ```py
 aria2
+libgl1
 libglib2.0-0
 git-lfs
 ```
