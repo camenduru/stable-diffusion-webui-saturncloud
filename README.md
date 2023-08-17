@@ -7,8 +7,8 @@ https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
 
 | Jupyter Notebook | Info
 | --- | --- |
-[sdxl_v1.0_webui_saturn.md](sdxl_v1.0_webui_saturn) | [https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0](stabilityai/stable-diffusion-xl-base-1.0)
-[cyberrealistic_v3.2_webui_saturn.md](cyberrealistic_v3.2_webui_saturn) | [https://civitai.com/models/15003/cyberrealistic](Cyberdelia/cyberrealistic)
+[sdxl_v1.0_webui_saturn](sdxl_v1.0_webui_saturn.md) | [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
+[cyberrealistic_v3.2_webui_saturn](cyberrealistic_v3.2_webui_saturn.md) | [Cyberdelia/cyberrealistic](https://civitai.com/models/15003/cyberrealistic)
 
 ## Advanced Tutorial
 https://www.youtube.com/watch?v=6zixxc-4_bA <br />
