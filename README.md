@@ -5,6 +5,8 @@ https://saturncloud.io/
 ## Tutorial
 https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
 
+## Jupyter Notebooks
+
 | Jupyter Notebook | Info
 | --- | --- |
 [sdxl_v1.0_webui_saturn](sdxl_v1.0_webui_saturn.md) | [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
