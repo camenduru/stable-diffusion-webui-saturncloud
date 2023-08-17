@@ -3,8 +3,15 @@ https://saturncloud.io/
 [![Run in Saturn Cloud](https://saturncloud.io/images/embed/run-in-saturn-cloud.svg)](https://app.community.saturnenterprise.io/dash/o/community/resources?templateId=c4e741477206495aab84c1e3bf31147c)
 
 ## Tutorial
-https://www.youtube.com/watch?v=NJ-uV5GHN8g (simple) <br />
-https://www.youtube.com/watch?v=6zixxc-4_bA (advanced) <br />
+https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
+
+| Jupyter Notebook | Info
+| --- | --- |
+[sdxl_v1.0_webui_saturn.md](sdxl_v1.0_webui_saturn) | [https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0](stabilityai/stable-diffusion-xl-base-1.0)
+[cyberrealistic_v3.2_webui_saturn.md](cyberrealistic_v3.2_webui_saturn) | [https://civitai.com/models/15003/cyberrealistic](Cyberdelia/cyberrealistic)
+
+## Advanced Tutorial
+https://www.youtube.com/watch?v=6zixxc-4_bA <br />
 
 ## Pip requirements:
 ```py
