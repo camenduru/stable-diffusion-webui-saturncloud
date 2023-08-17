@@ -1,9 +1,9 @@
 ## Tutorial
 https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
 
-[![Run in Saturn Cloud](https://saturncloud.io/images/embed/run-in-saturn-cloud.svg)](https://app.community.saturnenterprise.io/dash/o/community/resources?templateId=c4e741477206495aab84c1e3bf31147c)
-
 ## Jupyter Notebooks
+
+[![Run in Saturn Cloud](https://saturncloud.io/images/embed/run-in-saturn-cloud.svg)](https://app.community.saturnenterprise.io/dash/o/community/resources?templateId=c4e741477206495aab84c1e3bf31147c)
 
 | Jupyter Notebook | Info
 | --- | --- |
