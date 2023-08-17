@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
 [sdxl_v1.0_webui_saturn](sdxl_v1.0_webui_saturn.md) | [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
 [cyberrealistic_v3.2_webui_saturn](cyberrealistic_v3.2_webui_saturn.md) | [Cyberdelia/cyberrealistic](https://civitai.com/models/15003/cyberrealistic)
 
-#### Jupyter Notebook Without Tunnel (Recommended) (Thanks to @tcmaps for the info ❤)
+#### Jupyter Notebook Without Tunnel (CyberRealistic v3.2) (Thanks to @tcmaps for the info ❤)
 ```py
 %cd /home/jovyan/workspace
 %env TF_CPP_MIN_LOG_LEVEL=1
