@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
 
 ## Jupyter Notebooks
 
-[![Run in Saturn Cloud](https://saturncloud.io/images/embed/run-in-saturn-cloud.svg)](https://app.community.saturnenterprise.io/dash/o/community/resources?templateId=c4e741477206495aab84c1e3bf31147c)
+[![Run in Saturn Cloud](https://saturncloud.io/images/embed/run-in-saturn-cloud.svg)](https://app.community.saturnenterprise.io/dash/o/community/resources?templateId=af7183683ef2475c9ef8f795b5bc735a)
 
 | Jupyter Notebook | Info
 | --- | --- |
