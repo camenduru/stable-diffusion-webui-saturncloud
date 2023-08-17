@@ -3,7 +3,8 @@ https://saturncloud.io/
 [![Run in Saturn Cloud](https://saturncloud.io/images/embed/run-in-saturn-cloud.svg)](https://app.community.saturnenterprise.io/dash/o/community/resources?templateId=c4e741477206495aab84c1e3bf31147c)
 
 ## Tutorial
-https://www.youtube.com/watch?v=6zixxc-4_bA
+https://www.youtube.com/watch?v=NJ-uV5GHN8g (simple) <br />
+https://www.youtube.com/watch?v=6zixxc-4_bA (advanced) <br />
 
 ## Pip requirements:
 ```py
