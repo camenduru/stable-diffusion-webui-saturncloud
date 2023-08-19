@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
 | --- | --- |
 [sdxl_v1.0_webui_saturncloud](sdxl_v1.0_webui_saturncloud.md) | [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
 [cyberrealistic_v3.2_webui_saturncloud](cyberrealistic_v3.2_webui_saturncloud.md) | [Cyberdelia/cyberrealistic](https://civitai.com/models/15003/cyberrealistic)
+[sd_v1.5_controlnet_webui_saturncloud](sd_v1.5_controlnet_webui_saturncloud.md) | [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5)
 
 #### Jupyter Notebook Without Tunnel (CyberRealistic v3.2) (Thanks to @tcmaps for the info ❤)
 ```py
