@@ -2,6 +2,8 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
+# ⚠ We cannot use Stable Diffusion with Free Tier on Saturn Cloud anymore. 😭
+
 ## Tutorial
 https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
 
